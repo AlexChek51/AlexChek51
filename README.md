@@ -1,21 +1,34 @@
-Привет 👋 Меня зовут Александр! ==============================
-
-### Навыки
 
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https:// www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored .svg" width="36" height="36" alt="PostgreSQL" /></a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender " /></a> <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/ readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a> <a href="https://www. adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/ навыки/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
+![SVG-баннеры](https://svg-banners.vercel.app/api?type=origin&text1=Александр💻😎&text2=💖%20Начинающий%20 разработчик%20ИИ&width=900&height=400)
 
 
-### Социальные сети
 
-<p align="left"> <a href="https://discord.com/users/marcus9503" target="_blank" rel="noreferrer"> <picture> <source media="(предпочитает -color-scheme: темный)" srcset="undefined" /> <source media="(предпочитает-color-scheme: светлый)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main /public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32 " height="32" /> </picture> </a> <a href="https://www.github.com/AlexChek51" target="_blank" rel="noreferrer"> <picture> <source media ="(предпочитает-цветовую-схему: темную)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media ="(предпочитает цветовую схему: светлую)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src=" https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.vk.com/project__one" target="_blank" rel="noreferrer"> <picture> <source media="(предпочитает цветовую схему: тёмную)" srcset="undefined" / > <source media="(prefers-color-scheme: Light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" /> < img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /> </picture> </ а> </p>
 
-### Значки
 
-<b>My GitHub Stats</b>
+<p align="left"> < img height="auto" src="https://github-profile-trophy.vercel.app/?username=AlexChek51&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt= "image" /> </p>
 
-<a href="http://www.github.com/AlexChek51"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexChek51&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- 🌱 В настоящее время я изучаю **Создание и изучение нейронных сетей**
 
-<a href="https://github.com/AlexChek51" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexChek51&langs_count =10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Лучшие языки" /></a>
+- 💬 Спросите меня о **Нейронных сетях**
+
+- 😂 Func Fact **Человек года по версии журнала time 2006 года **
+
+- 📫 Как со мной связаться **sasha.checkulin@yandex.ru**
+
+<h3 align="left">Связаться со мной:</h3> <p align="left"> <a href="https: //github.com/AlexChek51" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons /Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://discord.gg/marcus9503" target="blank "><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg alt="profile-radme -generator" height="30" width="40" /></a> </p>
+
+<h3 align="left">Языки и инструменты:</h3> <p align="left"> <a href =https://www.blender.org/ target="_blank" rel="noreferrer"> <img src=https://download.blender.org/branding/community/blender_community_badge_white.svg alt="android" width= "40" height="40"/> </a> <a href=https://www.linux.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent .com/devicons/devicon/master/icons/linux/linux-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.photoshop .com/en target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg alt="android" ширина ="40" height="40"/> </a> <a href=https://www.postgresql.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent .com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www .питон.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt="android" width="40 " height="40"/> </a> </p>
+
+
+
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/ api?username=AlexChek51&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
+
+
+
+<img align="left" height="auto" width={300} src="https://github -readme-streak-stats.herokuapp.com/?user=AlexChek51&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
+
+
+
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexChek51&theme=dark&hide_border=false" alt ="профиль-радме-генератор" />
+
