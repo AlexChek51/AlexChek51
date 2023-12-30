@@ -2,12 +2,6 @@
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Александр💻😎" width="900"height=400/>
 </div>
 
-![SVG-баннеры](https://svg-banners.vercel.app/api?type=origin&text1=Александр💻😎&text2=💖%20Начинающий%20 разработчик%20ИИ&width=900&height=400)
-
-
-
-
-
 <p align="left"> < img height="auto" src="https://github-profile-trophy.vercel.app/?username=AlexChek51&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt= "image" /> </p>
 
 - 🌱 В настоящее время я изучаю *Создание и изучение нейронных сетей*
