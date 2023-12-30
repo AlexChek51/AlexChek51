@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Александр💻😎&text2=💖Начинающий разработчик ИИ" width="900"height=400/>
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Александр💻😎&text2=💖
+    " width="900"height=400/>
 </div>
 
 ![SVG-баннеры](https://svg-banners.vercel.app/api?type=origin&text1=Александр💻😎&text2=💖%20Начинающий%20 разработчик%20ИИ&width=900&height=400)
