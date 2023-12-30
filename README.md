@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/AlexChek51/AlexChek51/blob/main/code.gif" width="700"height=400/>
+  <img src="https://github.com/AlexChek51/AlexChek51/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif" width="700"height=400/>
 </div>
 
 <h2 align="left">Обо мне:</h2>
