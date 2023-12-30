@@ -11,7 +11,7 @@
 - 😂 Интерсный факт обо мне: *Человек года по версии журнала time 2006 года*
 
 - 📫 Как со мной связаться *sasha.checkulin@yandex.ru*
-____
+__
 
 <h3 align="left">Связаться со мной:</h3> <p align="left"> <a href="https: //github.com/AlexChek51" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons /Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://discord.gg/marcus9503" target="blank "><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg alt="profile-radme -generator" height="30" width="40" /></a> </p>
 
