@@ -8,13 +8,13 @@
 
 <p align="left"> < img height="auto" src="https://github-profile-trophy.vercel.app/?username=AlexChek51&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt= "image" /> </p>
 
-- 🌱 В настоящее время я изучаю **Создание и изучение нейронных сетей**
+- 🌱 В настоящее время я изучаю *Создание и изучение нейронных сетей*
 
-- 💬 Спросите меня о **Нейронных сетях**
+- 💬 Спросите меня о *Нейронных сетях*
 
-- 😂 Интерсный факт обо мне *Человек года по версии журнала time 2006 года **
+- 😂 Интерсный факт обо мне *Человек года по версии журнала time 2006 года *
 
-- 📫 Как со мной связаться **sasha.checkulin@yandex.ru**
+- 📫 Как со мной связаться *sasha.checkulin@yandex.ru*
 
 <h3 align="left">Связаться со мной:</h3> <p align="left"> <a href="https: //github.com/AlexChek51" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons /Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://discord.gg/marcus9503" target="blank "><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg alt="profile-radme -generator" height="30" width="40" /></a> </p>
 
