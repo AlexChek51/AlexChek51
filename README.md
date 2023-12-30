@@ -32,14 +32,10 @@ ___
 
 ___
 
-
-
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/ api?username=AlexChek51&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
-
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=AlexChek51&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
 
 
 <img align="left" height="auto" width={300} src="https://github -readme-streak-stats.herokuapp.com/?user=AlexChek51&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
-
 
 
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexChek51&theme=dark&hide_border=false" alt ="профиль-радме-генератор" />
