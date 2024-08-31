@@ -27,8 +27,12 @@ ___
 - 📫 Как со мной связаться *sasha.checkulin@yandex.ru*
 ___
 
-<h3 align="left">Связаться со мной:</h3> <p align="left"> <a href="https://github.com/AlexChek51" target="blank"><img align="center" src=https://github.com/AlexChek51/AlexChek51/blob/main/github_original_wordmark_logo_icon_146506.ico /Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://discord.gg/marcus9503" target="blank "><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg alt="profile-radme -generator" height="30" width="40" /></a> 
-<a href="https://vk.com/project__one" target="blank "><img align="center" src=https://github.com/AlexChek51/AlexChek51/blob/main/vk_icon-icons.com_66681.ico alt="profile-radme -generator" height="30" width="40" /></a> </p>
+## 🌐 Связь со мной
+
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](sasha.checkulin@gmail.com)
+[![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=30A0E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/alalch)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&labelColor=&style=for-the-badge)](https://discord.gg/marcus9503)
+[![Whatsapp](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://wa.me/+79828076773)
 
 ___
 
