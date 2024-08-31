@@ -64,3 +64,16 @@ ___
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexChek51&theme=dark&hide_border=false" alt ="профиль-радме-генератор" />
 
 ___
+
+## 🥇 Metrices
+
+| ![happydeveloper0305 github stats](https://github-readme-stats.vercel.app/api?username=happydeveloper0305&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![happydeveloper0305 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=happydeveloper0305&theme=tokyonight&theme=icegray&border_radius=8) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<hr />
+
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=happydeveloper0305" alt="happydeveloper0305" /></a></p>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
