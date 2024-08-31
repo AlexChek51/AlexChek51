@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://github.com/AlexChek51/AlexChek51/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif" width="700"height=400/>
-</div>
-
 ## 👨‍💻 Обо мне
 <img align="right" alt="GIF" src="https://github.com/AlexChek51/AlexChek51/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif" width="500" height="320" />
 Здравствуйте ✋, меня зовут Александр. Я начинающий разработчик на языке программирования Python. Изучаю Python уже несколько лет. Имеется опыт разработки: 
