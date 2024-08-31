@@ -3,7 +3,7 @@
 </div>
 
 ## 👨‍💻 Обо мне
-
+<img align="right" alt="GIF" src="[https://github.com/happydeveloper0305/happydeveloper0305/blob/main/code.gif](https://github.com/AlexChek51/AlexChek51/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif)" width="500" height="320" />
 Здравствуйте ✋, меня зовут Александр. Я начинающий разработчик на языке программирования Python. Изучаю Python уже несколько лет. Имеется опыт разработки: 
 
 - голосового помощника типа Jarvic из фильма "Железный человек";
