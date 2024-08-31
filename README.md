@@ -60,6 +60,9 @@ ___
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/happydeveloper0305/happydeveloper0305/output/github-contribution-grid-snake-dark.svg)
 ___
 
+## 📈Статистика
+___
+
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=AlexChek51&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
 
 
