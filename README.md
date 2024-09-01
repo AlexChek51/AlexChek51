@@ -1,5 +1,5 @@
 ###
-
+<img align="right" alt="GIF" src="https://github.com/AlexChek51/AlexChek51/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif" width="500" height="320" />
 <h1 align="center">Привет👋 Меня зовут Александр!</h1>
 
 ###
