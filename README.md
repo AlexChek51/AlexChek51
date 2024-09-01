@@ -35,22 +35,21 @@ ___
 
 <div>
 
-| Технический стек | Описание                      | Значок                                                                                              |
-| :--------------- | :---------------------------- | :-------------------------------------------------------------------------------------------------- |
-| Python           | Programming Language          | ![Python](https://img.shields.io/badge/Python-Programming%20Language-blue)                          |
-| Hugging Face     | AI Library                    | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-AI%20Library-ff69b4)                    |
-| OpenAI           | Language Models               | ![OpenAI](https://img.shields.io/badge/OpenAI-Language%20Models-00cc55)                             |
-| LoRa             | Low-Rank Adaptation           | ![LoRa](https://img.shields.io/badge/LoRa-Fine%20Tuning-blue)                                       |
-| Google Colab     | Online Jupyter Notebooks      | ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebooks-yellow)                       |
-| PyTorch          | Deep Learning Framework       | ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)                                |
-| TensorFlow       | Machine Learning Framework    | ![TensorFlow](https://img.shields.io/badge/TensorFlow-Machine%20Learning-blue)                      |
-| OpenCV           | Computer Vision Library       | ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-brightgreen)                        |
-| Pandas           | Data Manipulation Library     | ![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-blueviolet)                       |
-| CUDA             | Parallel Computing Platform   | ![CUDA](https://img.shields.io/badge/CUDA-Parallel%20Computing-darkorange)                          |
-| NVIDIA           | GPU Technology                | ![NVIDIA](https://img.shields.io/badge/NVIDIA-GPU%20Technology-76b900)                              |
-| Flask            | Web Framework for Python      | ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-yellow)                                 |
-| FastAPI          | Web API Framework for Python  | ![FastAPI](https://img.shields.io/badge/FastAPI-Web%20API%20Framework-green)                        |
-| Scikit-learn     | Machine Learning Library      | ![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-Machine%20Learning-lightgreen)          |
+| Технический стек | Описание                                | Значок                                                                                              |
+| :--------------- | :---------------------------------------| :-------------------------------------------------------------------------------------------------- |
+| Python           | Язык программирования                   | ![Python](https://img.shields.io/badge/Python-Programming%20Language-blue)                          |
+| Hugging Face     | AI библиотека                           | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-AI%20Library-ff69b4)                    |
+| OpenAI           | Языковые модели                         | ![OpenAI](https://img.shields.io/badge/OpenAI-Language%20Models-00cc55)                             |
+| Google Colab     | Облачная платформа                      | ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebooks-yellow)                       |
+| PyTorch          | Система глубокого обучения              | ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)                                |
+| TensorFlow       | Платформа машинного обучения            | ![TensorFlow](https://img.shields.io/badge/TensorFlow-Machine%20Learning-blue)                      |
+| OpenCV           | Библиотека компьютерного зрения         | ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-brightgreen)                        |
+| Pandas           | Библиотека для манипулирования данными  | ![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-blueviolet)                       |
+| CUDA             | Платформа для параллельных вычислений   | ![CUDA](https://img.shields.io/badge/CUDA-Parallel%20Computing-darkorange)                          |
+| NVIDIA           | Технология графического процессора      | ![NVIDIA](https://img.shields.io/badge/NVIDIA-GPU%20Technology-76b900)                              |
+| Flask            | Веб-фреймворк для Python                | ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-yellow)                                 |
+| FastAPI          | Фреймворк Web API для Python            | ![FastAPI](https://img.shields.io/badge/FastAPI-Web%20API%20Framework-green)                        |
+| Scikit-learn     | Библиотека машинного обучения           | ![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-Machine%20Learning-lightgreen)          |
 
 </div>
 
