@@ -1,10 +1,10 @@
+<img align="right" alt="GIF" src="https://github.com/AlexChek51/AlexChek51/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif" width="700" height="400" />
 ###
-<img align="right" alt="GIF" src="https://github.com/AlexChek51/AlexChek51/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif" width="500" height="320" />
+
 <h1 align="center">Привет👋 Меня зовут Александр!</h1>
 
 ###
 ## 👨‍💻 Обо мне
-<img align="right" alt="GIF" src="https://github.com/AlexChek51/AlexChek51/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif" width="500" height="320" />
 Я начинающий Data Scientist с опытом работы в области программирования и преподавания информатики. Мой путь в IT начался 3 года назад, когда я стал учителем информатики в школе и увлёкся программированием. В настоящее время я продолжаю своё обучение в академии нейросетей The Founder.
 <br>Достижения:
 <br>-Стажировка в ООО "Цифровые технологии": реализовал проект по использованию искусственного интеллекта для автоматического создания кратких обзоров бизнес-книг.
