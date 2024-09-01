@@ -1,4 +1,8 @@
-<img align="center" alt="GIF" src="https://github.com/AlexChek51/AlexChek51/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif" width="600" height="400" />
+<br clear="both">
+
+<div align="center">
+  <img height="300" width="600" src="https://github.com/AlexChek51/AlexChek51/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif"  />
+</div>
 
 ###
 
