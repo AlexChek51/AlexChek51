@@ -21,7 +21,7 @@ I like working through the whole process: what the user needs, how the system re
 | --- | --- | --- |
 | **[LANDAX.AI](https://landax.ai/)** · Progressima | SaaS for landing-page localization and adaptation. Secure ZIP processing, AI integrations, SSH/SFTP delivery, RBAC, billing, per-user cost tracking and Binom analytics. Interface in 6 languages | Python, FastAPI, PostgreSQL, Celery, Redis, Airflow, Jinja2, JavaScript |
 | **AvatarAI** · Progressima | AI video pipeline: scripts, storyboards, scenes, voice, subtitles and final assembly. Videos of 6–180 seconds. Background workers, persisted task state, recovery and safeguards against duplicate paid requests | Python, FastAPI, PostgreSQL, LLM APIs, FFmpeg, SoX |
-| **Cliparium, Kairo, Channeloom** · Progressima | Three independently deployable Telegram Mini Apps. initData verification, tenant isolation, idempotency, concurrent workers and 18 database migrations | FastAPI, aiogram, PostgreSQL, Redis, JavaScript, Docker Compose |
+| **[Cliparium, Kairo, Channeloom](https://github.com/AlexChek51/Mini_Apps)** · Progressima | Three independently deployable Telegram Mini Apps: media editing, planning and channel management. initData verification, tenant isolation, idempotency, concurrent workers and 18 database migrations | FastAPI, aiogram, PostgreSQL, Redis, JavaScript, Docker Compose |
 | **DIKIDI × YCLIENTS** · independent client work | Booking and calendar-block synchronization, Telegram/MAX notifications and web administration. Conflict checks, dry runs and service monitoring on Linux/Raspberry Pi | Python, REST APIs, HTML, CSS, JavaScript, Docker |
 | **ZONT** · independent client work | Salon website, YCLIENTS catalog with 16 categories and 142 services, browser-side visual editor with preview, drafts and undo/redo | React, TypeScript, Vite, Fluent UI, native CSS |
 | **SUN MUSE** · independent client work | Studio website, YCLIENTS booking, content editor and deployment alongside the integration services | HTML, CSS, Vanilla JavaScript, Python |
@@ -41,6 +41,8 @@ I use Cursor, Codex, Claude through Cursor, existing MCP tools and Skills. I del
 I also handle deployment and troubleshooting: reverse proxies, certificates, persistent volumes, health checks, PostgreSQL connections and background queues. Earlier work includes Python/JavaScript/C++ software for Raspberry Pi under Debian, networking with MikroTik, Synology storage and backups.
 
 ## Public repositories
+
+**[Mini Apps](https://github.com/AlexChek51/Mini_Apps)** — source code for Cliparium, Kairo and Channeloom, with interface screenshots, local previews, Docker and quality checks.
 
 **[TrendHijackBot](https://github.com/AlexChek51/TrendHijackBot)** — regional trend research in Telegram, with source collection, OpenAI analysis, PostgreSQL history and DOCX reports. Includes tests, Docker and GitHub Actions.
 

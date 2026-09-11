@@ -32,6 +32,8 @@
 
 ### Cliparium, Kairo и Channeloom — Telegram Mini Apps
 
+[Исходный код, скриншоты и локальный просмотр](https://github.com/AlexChek51/Mini_Apps)
+
 Разработал три независимо разворачиваемых продукта на FastAPI, aiogram, PostgreSQL, Redis и Vanilla JavaScript. Реализовал HMAC-проверку Telegram initData, изоляцию данных клиентов, идемпотентность, optimistic locking и lease-механику для конкурентных worker-процессов.
 
 Подготовил 18 Alembic-миграций. На Linux DEV-сервере развернул отдельные Docker Compose-проекты с собственными сетями, volumes и API/bot/worker-процессами. Настроил Nginx, Cloudflare Tunnel, health checks, ограничения ресурсов и доступ к PostgreSQL/Redis только из внутренних сетей.

@@ -44,10 +44,10 @@
 <tr>
 <td width="50%" valign="top">
 
-### Cliparium · Kairo · Channeloom
+### [Cliparium · Kairo · Channeloom ↗](https://github.com/AlexChek51/Mini_Apps)
 **Telegram Mini Apps · ООО «Прогрессима»**
 
-**3 независимо разворачиваемых продукта.** Проверка Telegram initData, изоляция данных клиентов, идемпотентность и конкурентные worker-процессы. 18 миграций БД; отдельные Compose-окружения, Nginx и Cloudflare Tunnel.
+**3 независимо разворачиваемых продукта:** медиаредактор, планировщик и кабинет управления каналами. Проверка Telegram initData, изоляция данных клиентов, идемпотентность и конкурентные worker-процессы. 18 миграций БД; Docker Compose, Nginx и Cloudflare Tunnel.
 
 `FastAPI` `aiogram` `PostgreSQL` `Redis` `JavaScript` `Docker Compose`
 
@@ -103,6 +103,8 @@
 </details>
 
 ## Открытый код
+
+**[Mini Apps](https://github.com/AlexChek51/Mini_Apps)** — исходный код Cliparium, Kairo и Channeloom, скриншоты интерфейсов, локальный просмотр, Docker и проверки качества.
 
 **[TrendHijackBot](https://github.com/AlexChek51/TrendHijackBot)** — Telegram-бот для исследования региональных трендов: сбор материалов, анализ через OpenAI, история в PostgreSQL и DOCX-отчёты. В репозитории есть тесты, Docker и GitHub Actions.
 
