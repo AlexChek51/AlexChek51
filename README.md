@@ -1,73 +1,124 @@
-<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-dark.svg" width="100%" alt="Александр Чекулин — Fullstack Developer. SaaS, AI-интеграции и автоматизация. Python, FastAPI, React, TypeScript, Linux и Docker.">
+</picture>
 
-<div align="center">
-  <img height="300" width="600" src="https://github.com/AlexChek51/AlexChek51/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif"  />
-</div>
+<p align="center">
+  <a href="https://t.me/alalch"><strong>Telegram</strong></a> ·
+  <a href="mailto:sasha.checkulin@gmail.com">Email</a> ·
+  <a href="PROJECTS.md">Подробнее о проектах</a> ·
+  <a href="https://github.com/AlexChek51/TrendHijackBot">Открытый код</a> ·
+  <a href="README.en.md">English</a>
+</p>
 
-###
+Разрабатываю SaaS-платформы, AI-сервисы и автоматизацию для бизнеса. Беру на себя backend, базы данных, интерфейс и запуск на Linux-сервере. В проектах работаю с генерацией контента, рекламной аналитикой, CRM и Telegram-приложениями.
 
-<h1 align="center">Привет👋 Меня зовут Александр!</h1>
+Мне интересны задачи, где нужно разобраться в процессе целиком: как пользователь получит результат, что произойдёт при сбое внешнего API и сколько будет стоить выполнение операции.
 
-###
-## 👨‍💻 Обо мне
-Я начинающий Data Scientist с опытом работы в области программирования и преподавания информатики. Мой путь в IT начался 3 года назад, когда я стал учителем информатики в школе и увлёкся программированием. В настоящее время я продолжаю своё обучение в академии нейросетей The Founder.
-<br>Достижения:
-<br>-Стажировка в ООО "Цифровые технологии": реализовал проект по использованию искусственного интеллекта для автоматического создания кратких обзоров бизнес-книг.
-<br>-Разработка образовательных приложений на Python: создал и внедрил несколько приложений для обучения школьников и студентов программированию.
-<br>-Создание телеграм-ботов и нейро-сотрудников: разработал несколько телеграм-ботов и виртуальных сотрудников с элементами искусственного интеллекта.
-<br>-Участие в различных проектах: реализовал множество проектов, которые демонстрируют мои навыки и интересы в области машинного обучения и разработки программного обеспечения. Ознакомиться с ними можно в моём репозитории.</p>
+## Избранные проекты
 
-___
+<table>
+<tr>
+<td width="50%" valign="top">
 
-😂 Интересный факт обо мне: "Человек года по версии журнала time 2006 года".
-___
+### [LANDAX.AI ↗](https://landax.ai/)
+**SaaS для рекламных лендингов · ООО «Прогрессима»**
 
-## 🌐 Связь со мной
+Локализация и переработка лендингов с AI. Безопасная обработка ZIP, доставка по SSH/SFTP, роли и права, биллинг, учёт токенов и затрат по пользователям. Аналитика Binom через Airflow. **6 языков интерфейса.**
 
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](sasha.checkulin@gmail.com)
-[![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=30A0E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/alalch)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&labelColor=&style=for-the-badge)](https://discord.gg/marcus9503)
-[![Whatsapp](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://wa.me/+79828076773)
+`Python` `FastAPI` `PostgreSQL` `Celery` `Redis` `Jinja2` `JavaScript`
 
-___
+</td>
+<td width="50%" valign="top">
 
-## 🧑‍💻 Технологии
+### AvatarAI
+**Производство AI-видео · ООО «Прогрессима»**
 
-<div>
+От сценария и раскадровки до генерации сцен, озвучки, субтитров и сборки. Ролики **6–180 секунд**. Фоновые процессы сохраняют состояние и идентификаторы операций, чтобы восстанавливать задачи и предотвращать повторные платные запросы.
 
-| Технический стек | Описание                                | Значок                                                                                              |
-| :--------------- | :---------------------------------------| :-------------------------------------------------------------------------------------------------- |
-| Python           | Язык программирования                   | ![Python](https://img.shields.io/badge/Python-Programming%20Language-blue)                          |
-| Hugging Face     | AI библиотека                           | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-AI%20Library-ff69b4)                    |
-| OpenAI           | Языковые модели                         | ![OpenAI](https://img.shields.io/badge/OpenAI-Language%20Models-00cc55)                             |
-| Google Colab     | Облачная платформа                      | ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebooks-yellow)                       |
-| PyTorch          | Система глубокого обучения              | ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)                                |
-| TensorFlow       | Платформа машинного обучения            | ![TensorFlow](https://img.shields.io/badge/TensorFlow-Machine%20Learning-blue)                      |
-| OpenCV           | Библиотека компьютерного зрения         | ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-brightgreen)                        |
-| Pandas           | Библиотека для манипулирования данными  | ![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-blueviolet)                       |
-| CUDA             | Платформа для параллельных вычислений   | ![CUDA](https://img.shields.io/badge/CUDA-Parallel%20Computing-darkorange)                          |
-| NVIDIA           | Технология графического процессора      | ![NVIDIA](https://img.shields.io/badge/NVIDIA-GPU%20Technology-76b900)                              |
-| Flask            | Веб-фреймворк для Python                | ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-yellow)                                 |
-| FastAPI          | Фреймворк Web API для Python            | ![FastAPI](https://img.shields.io/badge/FastAPI-Web%20API%20Framework-green)                        |
-| Scikit-learn     | Библиотека машинного обучения           | ![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-Machine%20Learning-lightgreen)          |
+`Python` `FastAPI` `PostgreSQL` `LLM API` `FFmpeg` `SoX`
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-___
+### Cliparium · Kairo · Channeloom
+**Telegram Mini Apps · ООО «Прогрессима»**
 
-## 🚩Вклад
+**3 независимо разворачиваемых продукта.** Проверка Telegram initData, изоляция данных клиентов, идемпотентность и конкурентные worker-процессы. 18 миграций БД; отдельные Compose-окружения, Nginx и Cloudflare Tunnel.
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/happydeveloper0305/happydeveloper0305/output/github-contribution-grid-snake-dark.svg)
-___
+`FastAPI` `aiogram` `PostgreSQL` `Redis` `JavaScript` `Docker Compose`
 
-## 📈Статистика
-___
+</td>
+<td width="50%" valign="top">
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=AlexChek51&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
+### DIKIDI × YCLIENTS
+**Синхронизация записей · отдельный заказной проект**
 
+Объединение записей и календарных блокировок двух систем, уведомления в Telegram/MAX, web-admin. Планирование изменений, проверка конфликтов, dry-run и повторные запуски. Развёртывание на Linux/Raspberry Pi и мониторинг состояния сервисов.
 
-<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=AlexChek51&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
+`Python` `REST API` `HTML5` `CSS3` `JavaScript` `Docker`
 
+</td>
+</tr>
+</table>
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexChek51&theme=dark&hide_border=false" alt ="профиль-радме-генератор" />
+### Сайты и интерфейсы
+
+| Проект | Что разработал | Стек |
+| --- | --- | --- |
+| **ZONT** · заказной проект | Сайт салона, каталог из 16 категорий и 142 услуг YCLIENTS, клиентский визуальный редактор с preview, черновиками и undo/redo | React, TypeScript, Vite, Fluent UI, Native CSS, CSS Custom Properties |
+| **SUN MUSE** · заказной проект | Сайт студии с записью через YCLIENTS и административным редактором контента; публикация в общей Docker-инфраструктуре | HTML5, CSS3, Vanilla JavaScript, Python |
+| **Сайт-портфолио** · собственный проект | Интерактивное 3D-портфолио и AI-инструменты: генерация медиа, удаление фона, работа с 3D. Публичная ссылка появится после запуска | Next.js, React, TypeScript, CSS Modules, Global CSS, Three.js, ONNX Runtime Web |
+
+[Архитектура, личный вклад и технические решения →](PROJECTS.md)
+
+## Технологии
+
+| Направление | Использую в проектах |
+| --- | --- |
+| **Backend и данные** | Python, FastAPI, Pydantic, asyncio, REST API, SQL, PostgreSQL, SQLAlchemy, Alembic |
+| **Фоновые задачи и боты** | Celery, Redis, Airflow, aiogram, Telegram Bot API, Telegram Mini Apps |
+| **Frontend** | HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Vite, Jinja2, Bootstrap, CSS Modules |
+| **AI и медиа** | OpenAI API, Gemini, ComfyUI / Flux, FastGen, Faster Whisper, FFmpeg, SoX, ONNX Runtime Web |
+| **3D и анимация** | Three.js, React Three Fiber, WebGL, GLSL, GLB / glTF, GSAP, Motion |
+| **Серверы** | Linux, Docker / Compose, Nginx, Caddy, systemd, HTTPS / Let's Encrypt, Cloudflare Tunnel, SSH / SFTP, Bash, PowerShell |
+| **Качество и инструменты** | Git, pytest, unittest, Playwright, Ruff, mypy, ESLint, Prettier |
+
+**AI в разработке.** Работаю с Cursor и Codex, использую Claude через Cursor, подключаю готовые MCP-инструменты и Skills. Распределяю отдельные задачи между субагентами, задаю контекст и проверяю результат через review, тесты, сборку и пользовательские сценарии.
+
+**Эксплуатация.** Настраиваю reverse proxy, HTTPS, persistent volumes, health checks и удалённый деплой. Разбираю сбои контейнеров, PostgreSQL, очередей и внешних API. Есть опыт с Raspberry Pi, MikroTik, Synology, резервным копированием и защищённым удалённым доступом.
+
+<details>
+<summary><strong>Как пришёл к этому стеку</strong></summary>
+
+Мой опыт начинался с инженерных задач, автоматизации и преподавания информатики. Преподавал Python и робототехнику, сопровождал учебные проекты. Изучал AI в The Founder, участвовал в разработке ассистента для суммаризации бизнес-книг на стажировке в ООО «Цифровые технологии».
+
+Также работал в МТС и промышленной автоматизации. В ранних ML- и учебных проектах использовал pandas, scikit-learn, PyTorch, TensorFlow / Keras, OpenCV, Hugging Face, Google Colab и CUDA.
+
+В ООО «Вершина» разрабатывал прикладное ПО на Python, JavaScript и C++ для Raspberry Pi под Debian, работал с оборудованием, платёжными модулями и сетевой инфраструктурой. В ООО «Прогрессима» сосредоточился на fullstack-разработке, SaaS и AI-интеграциях. Параллельно выполнял отдельные коммерческие заказы и развивал собственные проекты.
+
+</details>
+
+## Открытый код
+
+**[TrendHijackBot](https://github.com/AlexChek51/TrendHijackBot)** — Telegram-бот для исследования региональных трендов: сбор материалов, анализ через OpenAI, история в PostgreSQL и DOCX-отчёты. В репозитории есть тесты, Docker и GitHub Actions.
+
+Ранние AI-проекты: **[Book Annotator](https://github.com/AlexChek51/Book_Annotator)** — суммаризация и вопросы по книгам; **[Wiki QA](https://github.com/AlexChek51/Wiki_QA)** — граф знаний и ответы по материалам Wikipedia.
+
+## GitHub в цифрах
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
+  <img src="assets/stats-dark.svg" width="100%" alt="Публичная статистика AlexChek51: репозитории, языки и активность. Обновляется автоматически по данным GitHub.">
+</picture>
+
+<sub>Языки рассчитаны по объёму файлов публичных репозиториев, без forks и этого профиля. Здесь есть ранние учебные notebooks; коммерческий стек приведён выше. Активность — из публичного календаря GitHub за последние 12 месяцев. [Как обновляются данные](PROFILE_MAINTENANCE.md).</sub>
+
+---
+
+**Обсудить проект или вакансию:** [@alalch](https://t.me/alalch) · [sasha.checkulin@gmail.com](mailto:sasha.checkulin@gmail.com)
 
