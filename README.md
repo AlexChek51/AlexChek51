@@ -5,12 +5,18 @@
 </picture>
 
 <p align="center">
-  <a href="https://t.me/alalch"><strong>Telegram</strong></a> ·
-  <a href="mailto:sasha.checkulin@gmail.com">Email</a> ·
-  <a href="PROJECTS.md">Подробнее о проектах</a> ·
-  <a href="https://github.com/AlexChek51/TrendHijackBot">Открытый код</a> ·
-  <a href="README.en.md">English</a>
+  <a href="https://t.me/alalch"><img src="assets/contact-telegram.svg" width="200" alt="Написать мне в Telegram"></a>
+  <a href="PROJECTS.md"><img src="assets/contact-projects.svg" width="200" alt="Кейсы проектов"></a>
+  <a href="https://github.com/AlexChek51/Mini_Apps"><img src="assets/contact-code.svg" width="200" alt="Открытый код"></a>
 </p>
+
+<p align="center"><a href="mailto:sasha.checkulin@gmail.com">sasha.checkulin@gmail.com</a> · <a href="README.en.md">English version</a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/highlights-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/highlights-light.svg">
+  <img src="assets/highlights-dark.svg" width="100%" alt="Проекты в цифрах: 6 языков LANDAX, ролики 6–180 секунд, 3 Telegram Mini Apps, 142 услуги ZONT.">
+</picture>
 
 Разрабатываю SaaS-платформы, AI-сервисы и автоматизацию для бизнеса. Беру на себя backend, базы данных, интерфейс и запуск на Linux-сервере. В проектах работаю с генерацией контента, рекламной аналитикой, CRM и Telegram-приложениями.
 
@@ -22,7 +28,8 @@
 <tr>
 <td width="50%" valign="top">
 
-### [LANDAX.AI ↗](https://landax.ai/)
+<a href="https://landax.ai/"><img src="assets/project-landax.svg" width="100%" alt="LANDAX.AI — SaaS, AI и аналитика"></a>
+
 **SaaS для рекламных лендингов · ООО «Прогрессима»**
 
 Локализация и переработка лендингов с AI. Безопасная обработка ZIP, доставка по SSH/SFTP, роли и права, биллинг, учёт токенов и затрат по пользователям. Аналитика Binom через Airflow. **6 языков интерфейса.**
@@ -32,7 +39,8 @@
 </td>
 <td width="50%" valign="top">
 
-### AvatarAI
+<a href="PROJECTS.md#avatarai--платформа-производства-ai-видео"><img src="assets/project-avatar.svg" width="100%" alt="AvatarAI — платформа производства AI-видео"></a>
+
 **Производство AI-видео · ООО «Прогрессима»**
 
 От сценария и раскадровки до генерации сцен, озвучки, субтитров и сборки. Ролики **6–180 секунд**. Фоновые процессы сохраняют состояние и идентификаторы операций, чтобы восстанавливать задачи и предотвращать повторные платные запросы.
@@ -44,7 +52,8 @@
 <tr>
 <td width="50%" valign="top">
 
-### [Cliparium · Kairo · Channeloom ↗](https://github.com/AlexChek51/Mini_Apps)
+<a href="https://github.com/AlexChek51/Mini_Apps"><img src="assets/project-miniapps.svg" width="100%" alt="Telegram Mini Apps: Cliparium, Kairo и Channeloom"></a>
+
 **Telegram Mini Apps · ООО «Прогрессима»**
 
 **3 независимо разворачиваемых продукта:** медиаредактор, планировщик и кабинет управления каналами. Проверка Telegram initData, изоляция данных клиентов, идемпотентность и конкурентные worker-процессы. 18 миграций БД; Docker Compose, Nginx и Cloudflare Tunnel.
@@ -54,7 +63,8 @@
 </td>
 <td width="50%" valign="top">
 
-### DIKIDI × YCLIENTS
+<a href="PROJECTS.md#dikidi--yclients--синхронизация-систем-записи"><img src="assets/project-dikidi.svg" width="100%" alt="DIKIDI × YCLIENTS — интеграция CRM и автоматизация"></a>
+
 **Синхронизация записей · отдельный заказной проект**
 
 Объединение записей и календарных блокировок двух систем, уведомления в Telegram/MAX, web-admin. Планирование изменений, проверка конфликтов, dry-run и повторные запуски. Развёртывание на Linux/Raspberry Pi и мониторинг состояния сервисов.
@@ -76,6 +86,12 @@
 [Архитектура, личный вклад и технические решения →](PROJECTS.md)
 
 ## Технологии
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
+  <img src="assets/stack-dark.svg" width="100%" alt="Python · FastAPI · React · TypeScript · PostgreSQL · Docker">
+</picture>
 
 | Направление | Использую в проектах |
 | --- | --- |
@@ -119,6 +135,12 @@
 </picture>
 
 <sub>Языки рассчитаны по объёму файлов публичных репозиториев, без forks и этого профиля. Здесь есть ранние учебные notebooks; коммерческий стек приведён выше. Активность — из публичного календаря GitHub за последние 12 месяцев. [Как обновляются данные](PROFILE_MAINTENANCE.md).</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg">
+  <img src="assets/activity-dark.svg" width="100%" alt="Календарь публичной активности AlexChek51 за последние 12 месяцев — реальные данные GitHub.">
+</picture>
 
 ---
 

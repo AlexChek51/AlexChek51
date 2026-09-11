@@ -29,6 +29,12 @@ I like working through the whole process: what the user needs, how the system re
 
 ## Stack and workflow
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
+  <img src="assets/stack-dark.svg" width="100%" alt="Python · FastAPI · React · TypeScript · PostgreSQL · Docker">
+</picture>
+
 - **Backend and data:** Python, FastAPI, Pydantic, asyncio, PostgreSQL, SQLAlchemy, Alembic, Redis, Celery, Airflow, aiogram.
 - **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Vite, Jinja2, Bootstrap, CSS Modules.
 - **AI and media:** OpenAI API, Gemini, ComfyUI/Flux, FastGen, Faster Whisper, FFmpeg, SoX, ONNX Runtime Web.

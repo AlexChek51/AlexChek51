@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="48" viewBox="0 0 230 48" role="img" aria-labelledby="title desc"><title id="title">Написать мне</title><desc id="desc"></desc><defs>
+  <linearGradient id="electric" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4388FF"/><stop offset=".6" stop-color="#48DFFF"/><stop offset="1" stop-color="#D0FF71"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#1665EA" stop-opacity=".42"/><stop offset="1" stop-color="#1665EA" stop-opacity="0"/></radialGradient>
+  <linearGradient id="rim"><stop stop-color="#48DFFF"/><stop offset=".56" stop-color="#4B85FF"/><stop offset="1" stop-color="#D0FF71"/></linearGradient>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs><style>
+  @keyframes orbit{to{transform:rotate(360deg)}}
+  @keyframes breathe{0%,100%{opacity:.5}50%{opacity:1}}
+  @keyframes appear{from{opacity:0;transform:translateY(7px)}to{opacity:1;transform:translateY(0)}}
+  .orbit{transform-origin:960px 234px;animation:orbit 24s linear infinite}
+  .reverse{animation-direction:reverse;animation-duration:34s}
+  .breathe{animation:breathe 4s ease-in-out infinite}
+  .intro{animation:appear 700ms cubic-bezier(.23,1,.32,1) both}
+  @media(prefers-reduced-motion:reduce){.orbit,.breathe,.intro{animation:none}.moving{display:none}}
+</style><g font-family="Segoe UI,Arial,sans-serif"><rect x="1" y="1" width="228" height="46" rx="10" fill="#D0FF71" stroke="#304B72" /><text x="20" y="31" font-size="20" fill="#112116" font-weight="700">↗</text><text x="54" y="30" font-size="16" fill="#112116" font-weight="600">Написать мне</text></g></svg>
