@@ -1,10 +1,10 @@
 {
   "user": "AlexChek51",
-  "repositories": 26,
+  "repositories": 28,
   "languages": [
     [
       "Python",
-      14145927
+      29097404
     ],
     [
       "Jupyter Notebook",
@@ -12,23 +12,27 @@
     ],
     [
       "JavaScript",
-      1770223
-    ],
-    [
-      "CSS",
-      178790
-    ],
-    [
-      "Shell",
-      110573
+      3314770
     ],
     [
       "HTML",
-      92693
+      1931304
+    ],
+    [
+      "CSS",
+      725564
+    ],
+    [
+      "Shell",
+      110981
     ],
     [
       "Cython",
       56115
+    ],
+    [
+      "Jinja",
+      30404
     ],
     [
       "PowerShell",
@@ -44,7 +48,7 @@
     ],
     [
       "Dockerfile",
-      9229
+      11274
     ],
     [
       "Dart",
@@ -53,6 +57,10 @@
     [
       "Swift",
       1812
+    ],
+    [
+      "PHP",
+      1687
     ],
     [
       "C",
@@ -75,43 +83,8 @@
       38
     ]
   ],
-  "contributions": 10,
+  "contributions": 20,
   "days": [
-    {
-      "date": "2025-09-07",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-08",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-09",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-10",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-11",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-12",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-13",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-09-14",
       "count": 0,
@@ -1924,10 +1897,25 @@
     },
     {
       "date": "2026-09-11",
-      "count": 10,
+      "count": 20,
       "level": 4
+    },
+    {
+      "date": "2026-09-12",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-09-13",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-09-14",
+      "count": 0,
+      "level": 0
     }
   ],
   "since": 2023,
-  "date": "2026-09-11"
+  "date": "2026-09-14"
 }
